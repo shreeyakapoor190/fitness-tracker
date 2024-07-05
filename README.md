@@ -1,4 +1,4 @@
-# Setting Up angu;ar material
+# Setting Up angular material
 
 - [Setting Up angu;ar material](#setting-up-anguar-material)
   - [Deployment](#deployment)
